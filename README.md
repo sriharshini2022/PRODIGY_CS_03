@@ -29,6 +29,7 @@ Password Strength Ratings:
 - Strong: The password meets most of the criteria.
 - Moderate: The password meets some of the criteria.
 - Weak: The password does not meet the criteria.
+
 Author:
   VALLABHAJOSYULA SRI HARSHINI
   Cyber Intern,
