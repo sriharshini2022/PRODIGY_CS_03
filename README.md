@@ -1,7 +1,9 @@
 # PRODIGY_CS_03
 @Password Strength Checker
+
 Problem statement:
-Build a tool that assesses the strength of a password based on criteria such as length,presence of uppercase,lowercase,numbers and special characters.Provide feedback to users on the password strength
+Build a tool that assesses the strength of a password based on criteria such as length,presence of uppercase,lowercase,numbers and special characters.Provide feedback to users on the password strength.
+
 Overview:
 This is a Python program designed to evaluate the strength of a given password based on several criteria. The program checks for the presence of uppercase letters, lowercase letters, digits, and special characters, as well as the length of the password. It then provides a rating of the password strength based on these factors.
 
